@@ -2,8 +2,8 @@
 
 ## 📌 About me 
 <p> My name is Fawaz Elayan, I am currently a student at JUST and 42Amman in Jordan. </p>
-<p> I love video games so much, and it is my dream to become a great game developer one day to achive my goal of making my own game. </p>
-<p> I am a person who wants to become the best by improving everyday.</p>
+<p> I love video games so much, and it is my dream to become a great game developer one day to achieve my goal of making my own game. </p>
+<p> I am a person who wants to be the best by improving everyday.</p>
 
 ## 🛠️ Languages & Tools
 <div align="center">
@@ -28,10 +28,12 @@
 
 ## 🌐 Let's Connect
 <div align="center">
+  <p>📧 Email: fawaz.elayan6@gmail.com</p>
+  <p>📩 Discord: banana_001_</p>
   <a href="https://profile.intra.42.fr/users/felayan">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=42&logoColor=white" />
+    <img src="https://img.shields.io/badge/Profile-710C04?style=for-the-badge&logo=42&logoColor=white" width="100" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/fawaz-elayan-297a05285/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="40" />
   </a>
 </div>
