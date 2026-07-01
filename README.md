@@ -20,7 +20,6 @@
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
 <p align="center">
@@ -32,17 +31,16 @@ I'm a Computer Science student at **JUST** (Jordan University of Science and Tec
 I love video games — not just playing them, but understanding what makes them work under the hood. That curiosity is what pulled me into programming in the first place, and it's what keeps me showing up every day to get a little bit better than I was yesterday.
 
 ```txt
-🔭  Currently building:     web projects & sharpening my fundamentals
-🌱  Currently learning:     full-stack web development, the AI-native way
-🎯  Long-term goal:         become a game developer & build my own game
-🕹️  Playground:             42 Amman's peer-to-peer, project-based curriculum
-💬  Ask me about:           C/C++, web dev basics, or game dev dreams
-⚡  Fun fact:                I believe consistency beats intensity, every time
+Currently building:      web projects & sharpening my fundamentals
+Currently learning:      full-stack web development, the AI-native way
+Long-term goal:          become a game developer & build my own game
+Playground:              42 Amman's peer-to-peer, project-based curriculum
+Ask me about:            C/C++, web dev basics, or game dev dreams
+Fun fact:                I believe consistency beats intensity, every time
 ```
 
 <br/>
 
-<!-- ================= TECH STACK ================= -->
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -51,18 +49,17 @@ I love video games — not just playing them, but understanding what makes them 
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=fawazelayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fawaz's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazelayan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=fawazelayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Fawaz's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazelayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fawazelayan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=fawazelayan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -71,16 +68,6 @@ I love video games — not just playing them, but understanding what makes them 
 
 <br/>
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fawazelayan&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
-
-<br/>
-
-<!-- ================= SNAKE ================= -->
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -91,23 +78,8 @@ I love video games — not just playing them, but understanding what makes them 
   </picture>
 </p>
 
-> ⚙️ This one needs a tiny one-time setup — see the note below the file list.
-
 <br/>
 
-<!-- ================= ROADMAP ================= -->
-## 🎯 2026 Roadmap
-
-- [x] Learn HTML, CSS & JavaScript fundamentals
-- [x] Ship my first AI-assisted landing page
-- [ ] Land my first freelance web dev client
-- [ ] Get comfortable with a backend stack
-- [ ] Build my first small game prototype
-- [ ] Contribute to an open-source game project
-
-<br/>
-
-<!-- ================= CONNECT ================= -->
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -115,15 +87,11 @@ I love video games — not just playing them, but understanding what makes them 
     <img src="https://img.shields.io/badge/Email-fawaz.elayan6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-banana__001__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <a href="https://profile.intra.42.fr/users/felayan">
-    <img src="https://img.shields.io/badge/42_Amman-Profile-710C04?style=for-the-badge&logo=42&logoColor=white" alt="42 Profile"/>
-  </a>
   <a href="https://www.linkedin.com/in/fawaz-elayan-297a05285/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:6a0dad,100:0f0c29&height=150&section=footer&animation=fadeIn"/>
 </p>
